@@ -1,28 +1,28 @@
-// #include <iostream>
+// #include<iostream>
 // #include<cmath>
 // using namespace std;
 // class solution{
 //     public:
-//     int bin(int n){
+//     int dec(int n){
+//         int ans =0;
 //         int i=0;
-//         int ans=0;
 //         while(n!=0){
 //             int bit = n&1;
-//             if(bit == 1){
-//                 ans=ans+pow(2,i);
-//             }
-//             n=n/10;
+//             ans=(bit*pow(10,i))+ans;
+//             n=n>>1;
 //             i++;
 //         }
 //         return ans;
 //     }
 // };
 // int main(){
+//     cout<<"Enter a decimal:-"<<endl;
 //     int n;
-//     cout<<"Enter a bin no:-"<<endl;
 //     cin>>n;
 //     solution x;
-//     int a = x.bin(n);
-//     cout<<"output:-"<<a<<endl;
+//     int a = x.dec(n);
+//     cout<<"sol:-"<<a<<endl;
 
+
+//     return 0;
 // }
