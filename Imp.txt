@@ -1,0 +1,10 @@
+Base 10” vs “Base 2”
+
+Base 10 (decimal) → digits are 0–9, place values are units (10⁰), tens (10¹), hundreds (10²), etc.
+Example: 345 = 3×100 + 4×10 + 5×1.
+
+Base 2 (binary) → digits are 0–1, place values are 1 (2⁰), 2 (2¹), 4 (2²), 8 (2³), etc.
+Example: 101 = 1×4 + 0×2 + 1×1 = 5.
+
+
+

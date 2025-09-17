@@ -1,7 +1,7 @@
 Q1) diff of sum and product of digits of a number.-leetcode(https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/)
 Q2) fibonacci Seq
 Q3)Prime
-Q4)number of 1 bits;
+Q4)number of 1 bits;-
 Q5)binary to decimal
 Q6)decimal to binary
 Q7)compliment base 10 int - 476
