@@ -8,3 +8,33 @@ Example: 101 = 1×4 + 0×2 + 1×1 = 5.
 
 
 
+🔹 Writing a number in base-10 (decimal)
+
+Digits allowed: 0–9.
+Place values: powers of 10 → 1 (10⁰), 10 (10¹), 100 (10²), 1000 (10³), …
+
+So for 7 in base-10:
+7 = (7 × 10⁰)
+    That’s it — because the digit 7 is allowed in base-10.
+
+If you had 47:
+47 = (4 × 10¹) + (7 × 10⁰)
+
+    Writing a number in base-2 (binary)
+
+Digits allowed: 0 or 1 only.
+Place values: powers of 2 → 1 (2⁰), 2 (2¹), 4 (2²), 8 (2³), …
+
+So to write 7 in base-2:
+7 = 111₂ = (1 × 2²) + (1 × 2¹) + (1 × 2⁰)
+    Why the difference?
+
+In base-10, the digit 7 already exists, so we can directly write it as a single digit.
+
+In base-2, only 0 and 1 exist, so we must expand 7 as a combination of powers of 2.
+
+That’s why binary looks like 1, 10, 11, 100… instead of digits like 2, 3, 4….
+
+✅ Answer to your doubt:
+You can’t write 7 in base-10 as 1,10,… like in binary, because base-10 already has digits up to 9.
+Only when digits are restricted (like in base-2) do you need multiple places to represent numbers ≥2.
