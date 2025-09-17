@@ -1,28 +1,24 @@
-// #include <iostream>
-// #include<cmath>
-// using namespace std;
-// class solution{
-//     public:
-//     int bin(int n){
-//         int i=0;
-//         int ans=0;
-//         while(n!=0){
-//             int bit = n&1;
-//             if(bit == 1){
-//                 ans=ans+pow(2,i);
-//             }
-//             n=n/10;
-//             i++;
-//         }
-//         return ans;
-//     }
-// };
-// int main(){
-//     int n;
-//     cout<<"Enter a bin no:-"<<endl;
-//     cin>>n;
-//     solution x;
-//     int a = x.bin(n);
-//     cout<<"output:-"<<a<<endl;
-
-// }
+#include <iostream>
+#include <cmath>
+using namespace std;
+class solution{
+    public:
+    int compliment_base10(int n){
+        int m = n;
+        int bit=0;
+        while(m!=0){
+        bit = (bit<<1)|1;
+        m=m>>1;
+        }
+        int digit = (~n)&bit;
+        return digit;
+    }
+    };
+int main(){
+    int n;
+    cout<<"Enter decimal to get compliment:- ";
+    cin>>n;
+    solution* x = new solution();
+    int a = x->compliment_base10(n);
+    cout<<"compliment is:- "<<a<<endl;
+}
