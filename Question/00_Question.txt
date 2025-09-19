@@ -5,4 +5,10 @@ Q4)number of 1 bits;-
 Q5)binary to decimal
 Q6)decimal to binary
 Q7)compliment base 10 int - 476
-Q8)
+----------------switch case------------
+Q8)calculate notes of 100,50,20,1 req for 1330
+---------------------------------------
+Q9)Even or Odd
+Q10)permutation ans combination
+Q11)total no of bits in a and b
+Q12)
