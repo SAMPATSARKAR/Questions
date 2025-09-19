@@ -11,4 +11,8 @@ Q8)calculate notes of 100,50,20,1 req for 1330
 Q9)Even or Odd
 Q10)permutation ans combination
 Q11)total no of bits in a and b
-Q12)
+---------------------array--------------
+Q12)maxim and minm in array 
+Q13)Sum of element of array
+Q14)linear search
+Q15)swap number
