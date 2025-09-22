@@ -16,3 +16,11 @@ Q12)maxim and minm in array
 Q13)Sum of element of array
 Q14)linear search
 Q15)swap number
+Q16)find unique element-(https://www.naukri.com/code360/problems/find-unique_625159?source=youtube&campaign=love_babbar_codestudio1&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio1)
+Q17)find unique number of occurence-1207 
+Q18)find duplicate
+Q19)array intersection
+Q20)pair sum
+Q21)find triplet
+Q22)sort 0 1
+Q23)
